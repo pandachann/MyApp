@@ -1,0 +1,2 @@
+# MyApp
+Múzeum belépőjegyek applikáció
